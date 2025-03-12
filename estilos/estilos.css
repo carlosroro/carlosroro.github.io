@@ -398,6 +398,7 @@ main {
 .izquierda {
     left: -50px;
     width: 130px;
+    margin-bottom: 15px;
 }
 
 .derecha {
